@@ -1,0 +1,29 @@
+body {
+    min-width: 320px;
+    font-size: 16px;
+    font-family: "Roboto", sans-serif;
+    color: #000;
+}
+header .navbar-brand {
+    margin-right: 25px;
+}
+.section {
+    margin-bottom: 32px;
+}
+.tab {
+    padding-bottom: 50px;
+}
+table td {
+    color: #007BFF;
+}
+footer {
+    background-color: #F5F5F5;
+    padding: 16px 0;
+}
+footer span {
+    color: #6C757D;
+}
+
+
+
+
